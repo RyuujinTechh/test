@@ -7,6 +7,6 @@ um grande teste para um homem mas um pequeno teste para a humanidade [para mais 
 - [primeiro detalhe](https://www.youtube.com/watch?v=hbXljW9FnCc)
 - [segundo detalhe](https://www.youtube.com/watch?v=u-fOF9Wlpd8)
  
- |contatos|
+ |contato|
  |--------|
  [linkedin](https://www.linkedin.com/in/dalton-barbosa-a2a582305/)
